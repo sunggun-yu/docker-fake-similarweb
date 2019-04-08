@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:alpine
 
 LABEL maintainer="Sunggun Yu <sunggun.dev@gmail.com>"
 
